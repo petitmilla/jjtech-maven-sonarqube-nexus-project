@@ -73,6 +73,7 @@ under the License.
          <name>your custom repo</name>
          <url>http://54.152.54.128:8081/repository/maven-releases/</url>
        </repository>
+       
      </repositories>
    </profile>
    <!--Nexus Repository Manager's Profile End-->
